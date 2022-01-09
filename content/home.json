@@ -5,7 +5,7 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "img": "/img/uploads/whatsapp-image-2022-01-08-at-16.12.32.jpeg",
@@ -20,7 +20,7 @@
           "alt": "Banner sample two",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/passion.webp"
+          "mobile_img": "/img/uploads/amanda.rodrigues.tap-gmail.com.png"
         }
       ]
     },
