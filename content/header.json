@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 40%!",
-    "link": "/promotion"
+    "text": "Trabalhamos Com Looks Plussizes No Varejo Do 44 ao 54!",
+    "link": "https://www.instagram.com/boutiquedasplussizes/",
+    "background": "#b01da7",
+    "color": "#0c0c0c"
   },
   "contacts_stripe": {
     "pages": [
