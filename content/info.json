@@ -5,14 +5,14 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcelamos Sua Compra Em Até 12 Vezes!"
+    "text": "Parcelamos Sua Compra Em Até 6 Vezes!"
   },
   "exchange": {
     "show": true,
-    "text": "Sobre Trocas: Prazo 7 Dias Corridos Após Receber o Pedido, Chamar No Whats De Pós Vendas Para Receber Os Procedimentos!"
+    "text": "Sobre Trocas: Prazo De 7 Dias Corridos A Partir Da Data Que Recebeu Seu Pedido! Duvidas Chamar No Whats De Pós Vendas Para Receber Os Procedimentos Para Efetuar Sua Troca!"
   },
   "promo": {
     "show": true,
-    "text": "Nas Compras Acima De 500,00 Reais O Frete Grátis Para As Regiões De São Paulo!"
+    "text": "Frete Gratis Nas Compras Acima De 500,00! (Somente Para Regiões De São Paulo Capital)."
   }
 }
