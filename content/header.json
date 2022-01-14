@@ -2,17 +2,17 @@
   "marketing_stripe": {
     "text": "Trabalhamos Com Looks Plussizes No Varejo Do 44 ao 54!",
     "link": "https://www.instagram.com/boutiquedasplussizes/",
-    "background": "#b01da7",
+    "background": "#cd259d",
     "color": "#0c0c0c"
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
+        "title": "Sobre Nós!",
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Sigam Nossa Loja No Instagram",
+        "title": "Sigam A Pagina Da Nossa Loja No Instagram!",
         "link": "https://www.instagram.com/boutiquedasplussizes/"
       }
     ],
@@ -21,7 +21,7 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 6,
+    "random": 8,
     "full_width": false
   },
   "search_input": true
