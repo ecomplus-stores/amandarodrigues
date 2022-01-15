@@ -3,12 +3,12 @@
   "currency_symbol": "R$",
   "primary_color": "#810a62",
   "theme": {
-    "bootswatch": "cosmo",
+    "bootswatch": "cyborg",
     "custom": "_"
   },
   "bg_color": "#9232ae",
   "repository": "ecomplus-stores/amandarodrigues",
-  "logo": "/img/uploads/boutique-das-plussizes.png",
+  "logo": "/img/uploads/moda-feminina.png",
   "name": "Boutique Das PlusSizes",
   "short_name": "boutiquedasplussizes",
   "lang": "pt_br",
