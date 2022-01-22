@@ -10,26 +10,22 @@
         {
           "start": "2022-01-22T01:39:35.518Z",
           "end": "2023-01-01T01:39:32.465Z",
-          "img": "/img/uploads/moda-feminina-1080-x-1080-px-post-para-facebook-.png",
-          "mobile_img": "/img/uploads/img_20220118_221001_237.jpg"
+          "img": "/img/uploads/img_20220118_221001_237.jpg",
+          "mobile_img": "/img/uploads/moda-feminina-1080-x-1080-px-post-para-facebook-.png"
         },
         {
           "start": "2022-01-22T01:41:41.710Z",
           "end": "2023-01-01T01:39:17.339Z",
           "img": "/img/uploads/img_20220118_221001_237.jpg",
-          "mobile_img": "/img/uploads/img_20220118_221001_237.jpg"
+          "mobile_img": "/img/uploads/moda-feminina-1080-x-1080-px-post-para-facebook-.png"
         },
         {
           "start": "2022-01-22T01:42:28.718Z",
           "end": "2023-01-01T01:39:20.690Z",
           "img": "/img/uploads/img_20220118_221001_237.jpg",
-          "mobile_img": "/img/uploads/img_20220118_221001_237.jpg"
+          "mobile_img": "/img/uploads/moda-feminina-1080-x-1080-px-post-para-facebook-.png"
         }
       ]
-    },
-    {
-      "type": "info-bar",
-      "enabled": true
     },
     {
       "type": "collection-shelf",
@@ -42,6 +38,10 @@
       "page": 1
     },
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "page-title",
       "title": "Boutique Das PlusSizes",
       "description": "Trabalhamos Com Looks PlusSize No Varejo Do 44 ao 54!"
@@ -49,7 +49,27 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "full_width": false
+      "full_width": true,
+      "slides": [
+        {
+          "start": "2022-01-22T02:17:19.457Z",
+          "end": "2022-01-22T02:16:52.582Z",
+          "img": "/img/uploads/img_20220118_221001_237.jpg",
+          "mobile_img": "/img/uploads/moda-feminina-1080-x-1080-px-post-para-facebook-.png"
+        },
+        {
+          "start": "2022-01-22T02:18:25.270Z",
+          "end": "2022-01-22T02:18:25.389Z",
+          "img": "/img/uploads/boutique-pluss.jpeg",
+          "mobile_img": "/img/uploads/whatsapp-image-2022-01-08-at-16.12.32.jpeg"
+        },
+        {
+          "start": "2022-01-22T02:19:26.622Z",
+          "end": "2022-01-22T02:19:26.754Z",
+          "img": "/img/uploads/moda-feminina.png",
+          "mobile_img": "/img/uploads/moda-feminina.png"
+        }
+      ]
     }
   ]
 }
