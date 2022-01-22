@@ -8,10 +8,22 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2022-01-18T02:37:49.264Z",
-          "end": "2023-01-01T02:37:49.293Z",
-          "img": "/img/uploads/whatsapp-image-2022-01-08-at-16.12.32.jpeg",
-          "mobile_img": "/img/uploads/whatsapp-image-2022-01-08-at-16.12.32.jpeg"
+          "start": "2022-01-22T01:39:35.518Z",
+          "end": "2023-01-01T01:39:32.465Z",
+          "img": "/img/uploads/moda-feminina-1080-x-1080-px-post-para-facebook-.png",
+          "mobile_img": "/img/uploads/img_20220118_221001_237.jpg"
+        },
+        {
+          "start": "2022-01-22T01:41:41.710Z",
+          "end": "2023-01-01T01:39:17.339Z",
+          "img": "/img/uploads/img_20220118_221001_237.jpg",
+          "mobile_img": "/img/uploads/img_20220118_221001_237.jpg"
+        },
+        {
+          "start": "2022-01-22T01:42:28.718Z",
+          "end": "2023-01-01T01:39:20.690Z",
+          "img": "/img/uploads/img_20220118_221001_237.jpg",
+          "mobile_img": "/img/uploads/img_20220118_221001_237.jpg"
         }
       ]
     },
@@ -33,6 +45,11 @@
       "type": "page-title",
       "title": "Boutique Das PlusSizes",
       "description": "Trabalhamos Com Looks PlusSize No Varejo Do 44 ao 54!"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false
     }
   ]
 }
