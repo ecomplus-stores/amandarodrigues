@@ -1,12 +1,12 @@
 {
   "domain": "boutiquedasplussizes.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#810a62",
+  "primary_color": "#b7138c",
   "theme": {
     "bootswatch": "_",
     "custom": "niche-flowers"
   },
-  "bg_color": "#731290",
+  "bg_color": "#c335b6",
   "repository": "ecomplus-stores/amandarodrigues",
   "logo": "/img/uploads/img_20220118_221001_237.jpg",
   "name": "Boutique Das PlusSizes",
