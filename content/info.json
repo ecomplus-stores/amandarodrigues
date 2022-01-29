@@ -1,15 +1,15 @@
 {
   "shipping": {
     "show": true,
-    "text": "Enviamos Para Todo O Brasil Pelos Correios Modalidades PAC e SEDEX!"
+    "text": "Enviamos Para Todo O Brasil Pelos Correios Modalidades PAC Ou SEDEX!"
   },
   "installments": {
     "show": true,
-    "text": "Parcelamos Sua Compra Em Até 6 Vezes!"
+    "text": "Parcelamos Sua Compra Em Até 4 Vezes Sem Juros!"
   },
   "exchange": {
     "show": true,
-    "text": "Sobre Trocas: Prazo De 7 Dias Corridos A Partir Da Data Que Recebeu Seu Pedido! Duvidas Chamar No Whats De Pós Vendas Para Receber Os Procedimentos Para Efetuar Sua Troca!"
+    "text": "Sobre Trocas: Prazo De 7 Dias Corridos A Partir Da Data Que O Cliente Recebeu Seu Pedido! Duvidas Chamar No Whats De Pós Vendas Para Receber Os Procedimentos Para Efetuar Sua Troca!"
   },
   "promo": {
     "show": true,
