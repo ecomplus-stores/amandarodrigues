@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#810a62",
   "theme": {
-    "bootswatch": "spacelab",
-    "custom": "_"
+    "bootswatch": "_",
+    "custom": "clean-white"
   },
   "bg_color": "#731290",
   "repository": "ecomplus-stores/amandarodrigues",
@@ -14,11 +14,13 @@
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/whatsapp-image-2022-01-08-at-16.12.32.jpeg",
+  "font_family": "_",
+  "favicon": "/img/uploads/img_20220118_221001_237.jpg",
+  "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#720949",
   "icon": "/img/uploads/img_20220118_221001_237.jpg",
   "store_id": 26737,
   "description": "Sejam Bem Vindos (a) Boutique Das PlusSizes <3\nAqui na nossa loja vc vai encontrar looks Plussizes exclusivos no varejo, que vestem as numerações 44,46,48,50,52 e 54!\nEnviamos para todo o Brasil pelos correios nas modalidades PAC ou SEDEX!\nSobre Trocas: Prazo trocas 7 dias corridos, contando a partir do dia que a cliente recebeu o pedido!",
-  "large_icon": "/img/uploads/boutique-pluss.jpeg"
+  "large_icon": "/img/uploads/img_20220118_221001_237.jpg"
 }
