@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": "Trabalhamos Com Looks Plussizes Exclusivos No Varejo!",
+    "text": "Trabalhamos Com Looks Plussizes Exclusivos No Varejo Do 44 ao 54, Que Vestem Super Bem Valorizando Suas Curvas!",
     "link": "https://www.instagram.com/boutiquedasplussizes/",
     "background": "#780957",
     "color": "#0c0c0c"
@@ -9,11 +9,15 @@
     "pages": [
       {
         "title": "Sobre Nós!",
-        "link": "/pages/sobre-nos"
+        "link": "https://www.instagram.com/tv/CZUj5bBKOZV/?utm_source=ig_web_copy_link"
       },
       {
         "title": "Sigam A Pagina Da Nossa Loja No Instagram!",
         "link": "https://www.instagram.com/boutiquedasplussizes/"
+      },
+      {
+        "title": "Sobre Trocas!",
+        "link": "O prazo de troca é de 7 dias corridos a partir do dia que o cliente recebeu o pedido! Para mais informações nos  chamem no whats 11 98117-4137!"
       }
     ],
     "phone_wpp": true,
@@ -21,8 +25,8 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 8,
-    "full_width": false
+    "random": 15,
+    "full_width": true
   },
   "search_input": true
 }
