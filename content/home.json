@@ -28,14 +28,9 @@
       ]
     },
     {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null,
-      "sort": "news",
-      "title": "",
-      "headless": false,
-      "limit": 12,
-      "page": 1
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "views"
     },
     {
       "type": "info-bar",
@@ -70,11 +65,6 @@
           "mobile_img": "/img/uploads/moda-feminina.png"
         }
       ]
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "views"
     }
   ]
 }
