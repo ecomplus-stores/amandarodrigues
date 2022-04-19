@@ -9,7 +9,7 @@
     "pages": [
       {
         "title": "Sobre Nós!",
-        "link": "https://www.instagram.com/tv/CZUj5bBKOZV/?utm_source=ig_web_copy_link"
+        "link": "Somos Uma Loja Especializada Em Looks PlusSizes Exclusivos No Varejo Que Vestem Do 44ao54!"
       },
       {
         "title": "Sigam A Pagina Da Nossa Loja No Instagram!",
@@ -28,5 +28,6 @@
     "random": 15,
     "full_width": true
   },
-  "search_input": true
+  "search_input": true,
+  "desktop_megamenu": true
 }
