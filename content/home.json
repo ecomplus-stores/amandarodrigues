@@ -8,6 +8,31 @@
       "mobile_img": "/img/uploads/img-20220601-wa0316.jpg"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/img_20220531_114051_909.jpg",
+          "mobile_img": "/img/uploads/img_20220531_114051_909.jpg"
+        },
+        {
+          "img": "/img/uploads/img_20220531_114051_819.jpg",
+          "mobile_img": "/img/uploads/img_20220531_114051_819.jpg"
+        },
+        {
+          "img": "/img/uploads/img_20220531_114051_993.jpg",
+          "mobile_img": "/img/uploads/img_20220531_114051_993.jpg"
+        },
+        {
+          "img": "/img/uploads/img_20220531_114051_699.jpg",
+          "mobile_img": "/img/uploads/img_20220531_114051_699.jpg"
+        },
+        {
+          "img": "/img/uploads/img_20220531_114032_257.jpg",
+          "mobile_img": "/img/uploads/img_20220531_114032_257.jpg"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
@@ -53,31 +78,6 @@
       "type": "page-title",
       "title": "Boutique Das PlusSizes",
       "description": "Trabalhamos Com Looks PlusSize No Varejo Do 44 ao 54!"
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/img_20220531_114051_909.jpg",
-          "mobile_img": "/img/uploads/img_20220531_114051_909.jpg"
-        },
-        {
-          "img": "/img/uploads/img_20220531_114051_819.jpg",
-          "mobile_img": "/img/uploads/img_20220531_114051_819.jpg"
-        },
-        {
-          "img": "/img/uploads/img_20220531_114051_993.jpg",
-          "mobile_img": "/img/uploads/img_20220531_114051_993.jpg"
-        },
-        {
-          "img": "/img/uploads/img_20220531_114051_699.jpg",
-          "mobile_img": "/img/uploads/img_20220531_114051_699.jpg"
-        },
-        {
-          "img": "/img/uploads/img_20220531_114032_257.jpg",
-          "mobile_img": "/img/uploads/img_20220531_114032_257.jpg"
-        }
-      ]
     }
   ]
 }
