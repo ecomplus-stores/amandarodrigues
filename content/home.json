@@ -3,12 +3,42 @@
   "meta_description": "Dia Dos Namorados ",
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/img-20220601-wa0315.jpg",
+      "mobile_img": "/img/uploads/img-20220601-wa0316.jpg"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
       "page": 1,
       "sort": "news",
       "title": "♡ New Colection Coleção Nova ♡"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "2022-01-22T02:17:19.457Z",
+          "end": "2022-01-22T02:16:52.582Z",
+          "img": "/img/uploads/img_20220118_221001_237.jpg",
+          "mobile_img": "/img/uploads/img_20220118_221001_237.jpg"
+        },
+        {
+          "start": "2022-01-22T02:18:25.270Z",
+          "end": "2022-01-22T02:18:25.389Z",
+          "img": "/img/uploads/moda-feminina-1080-x-1080-px-post-para-facebook-.png",
+          "mobile_img": "/img/uploads/moda-feminina-1080-x-1080-px-post-para-facebook-.png"
+        },
+        {
+          "start": "2022-01-22T02:19:26.622Z",
+          "end": "2022-01-22T02:19:26.754Z",
+          "img": "/img/uploads/img-20220601-wa0315.jpg",
+          "mobile_img": "/img/uploads/img-20220601-wa0315.jpg"
+        }
+      ]
     },
     {
       "type": "dynamic-showcase",
@@ -25,39 +55,29 @@
       "description": "Trabalhamos Com Looks PlusSize No Varejo Do 44 ao 54!"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
+      "type": "banners-grid",
+      "banners": [
         {
-          "start": "2022-01-22T02:17:19.457Z",
-          "end": "2022-01-22T02:16:52.582Z",
-          "img": "/img/uploads/img_20220118_221001_237.jpg",
-          "mobile_img": "/img/uploads/moda-feminina-1080-x-1080-px-post-para-facebook-.png"
+          "img": "/img/uploads/img_20220531_114051_909.jpg",
+          "mobile_img": "/img/uploads/img_20220531_114051_909.jpg"
         },
         {
-          "start": "2022-01-22T02:18:25.270Z",
-          "end": "2022-01-22T02:18:25.389Z",
-          "img": "/img/uploads/boutique-pluss.jpeg",
-          "mobile_img": "/img/uploads/whatsapp-image-2022-01-08-at-16.12.32.jpeg"
+          "img": "/img/uploads/img_20220531_114051_819.jpg",
+          "mobile_img": "/img/uploads/img_20220531_114051_819.jpg"
         },
         {
-          "start": "2022-01-22T02:19:26.622Z",
-          "end": "2022-01-22T02:19:26.754Z",
-          "img": "/img/uploads/moda-feminina.png",
-          "mobile_img": "/img/uploads/moda-feminina.png"
+          "img": "/img/uploads/img_20220531_114051_993.jpg",
+          "mobile_img": "/img/uploads/img_20220531_114051_993.jpg"
+        },
+        {
+          "img": "/img/uploads/img_20220531_114051_699.jpg",
+          "mobile_img": "/img/uploads/img_20220531_114051_699.jpg"
+        },
+        {
+          "img": "/img/uploads/img_20220531_114032_257.jpg",
+          "mobile_img": "/img/uploads/img_20220531_114032_257.jpg"
         }
       ]
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/img-20220601-wa0315.jpg",
-      "mobile_img": "/img/uploads/img-20220601-wa0316.jpg"
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/img-20220601-wa0315.jpg",
-      "mobile_img": "/img/uploads/img-20220601-wa0316.jpg"
     }
   ]
 }
