@@ -3,6 +3,37 @@
   "meta_description": "Dia Dos Namorados ",
   "sections": [
     {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false,
+      "slides": [
+        {
+          "start": "2022-06-08T10:03:45.535Z",
+          "end": "2022-07-01T02:16:52.582Z",
+          "img": "/img/uploads/png_20220607_201427_0000.png",
+          "mobile_img": "/img/uploads/png_20220607_234201_0000.png"
+        },
+        {
+          "start": "2022-01-22T02:18:25.270Z",
+          "end": "2022-01-22T02:18:25.389Z",
+          "img": "/img/uploads/png_20220607_201427_0000.png",
+          "mobile_img": "/img/uploads/png_20220607_234201_0000.png"
+        },
+        {
+          "start": "2022-01-22T02:19:26.622Z",
+          "end": "2022-01-22T02:19:26.754Z",
+          "img": "/img/uploads/png_20220607_201427_0000.png",
+          "mobile_img": "/img/uploads/png_20220607_234201_0000.png"
+        },
+        {
+          "start": "2022-06-08T09:55:23.045Z",
+          "end": "2022-06-08T09:55:23.113Z",
+          "img": "/img/uploads/png_20220607_201427_0000.png",
+          "mobile_img": "/img/uploads/png_20220607_234201_0000.png"
+        }
+      ]
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/img-20220601-wa0315.jpg",
       "mobile_img": "/img/uploads/img-20220601-wa0316.jpg"
@@ -41,31 +72,6 @@
       "title": "♡ New Colection Coleção Nova ♡"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
-      "slides": [
-        {
-          "start": "2022-01-22T02:17:19.457Z",
-          "end": "2022-01-22T02:16:52.582Z",
-          "img": "/img/uploads/img_20220118_221001_237.jpg",
-          "mobile_img": "/img/uploads/img_20220118_221001_237.jpg"
-        },
-        {
-          "start": "2022-01-22T02:18:25.270Z",
-          "end": "2022-01-22T02:18:25.389Z",
-          "img": "/img/uploads/moda-feminina-1080-x-1080-px-post-para-facebook-.png",
-          "mobile_img": "/img/uploads/moda-feminina-1080-x-1080-px-post-para-facebook-.png"
-        },
-        {
-          "start": "2022-01-22T02:19:26.622Z",
-          "end": "2022-01-22T02:19:26.754Z",
-          "img": "/img/uploads/img-20220601-wa0315.jpg",
-          "mobile_img": "/img/uploads/img-20220601-wa0315.jpg"
-        }
-      ]
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "views"
@@ -78,6 +84,11 @@
       "type": "page-title",
       "title": "Boutique Das PlusSizes",
       "description": "Trabalhamos Com Looks PlusSize No Varejo Do 44 ao 54!"
+    },
+    {
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "full_width": false
     }
   ]
 }
