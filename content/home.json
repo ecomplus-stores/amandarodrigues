@@ -39,16 +39,16 @@
       "mobile_img": "/img/uploads/moda-feminina-1080-x-1080-px-post-para-facebook-.png"
     },
     {
-      "type": "banners-grid",
-      "banners": []
-    },
-    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
       "page": 1,
       "sort": "news",
       "title": "♡ New Colection Coleção Nova ♡"
+    },
+    {
+      "type": "banners-grid",
+      "banners": []
     },
     {
       "type": "dynamic-showcase",
