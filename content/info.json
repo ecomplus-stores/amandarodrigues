@@ -1,18 +1,18 @@
 {
   "shipping": {
     "show": true,
-    "text": "Enviamos Para Todo O Brasil Pelos Correios Modalidades PAC Ou SEDEX! 📦📤"
+    "text": "Enviamos De São Paulo Para Sua Casa🏠 Pelos Correios Modalidades PAC Ou SEDEX! 📦"
   },
   "installments": {
     "show": true,
-    "text": "Parcelamos Sua Compra Em Até 10 Vezes! 💳🛍"
+    "text": "Parcelamos Sua Compra Em Até 3 Vezes Sem Juros! 💳🛍"
   },
   "exchange": {
     "show": true,
-    "text": "Sobre Trocas: Prazo De 7 Dias Corridos A Partir Da Data Que O Cliente Recebeu Seu Pedido! Duvidas Chamar No Whats De Pós Vendas Para Receber Os Procedimentos Para Efetuar Sua Troca!"
+    "text": "Sobre Trocas: Prazo De 7 Dias Corridos A Partir Da Data Que O Cliente Recebeu Seu Pedido!"
   },
   "promo": {
     "show": true,
-    "text": "Frete Gratis Nas Compras Acima De 500,00! (Somente Para Regiões De São Paulo Capital)."
+    "text": "Frete Gratis! (Somente Para Regiões De São Paulo Capital).📦"
   }
 }
