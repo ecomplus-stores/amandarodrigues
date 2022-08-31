@@ -4,30 +4,12 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false,
+      "autoplay": 7000,
+      "full_width": true,
       "slides": [
         {
           "start": "2022-06-08T10:03:45.535Z",
           "end": "2022-07-01T02:16:52.582Z",
-          "img": "/img/uploads/png_20220607_201427_0000.png",
-          "mobile_img": "/img/uploads/png_20220607_234201_0000.png"
-        },
-        {
-          "start": "2022-01-22T02:18:25.270Z",
-          "end": "2022-01-22T02:18:25.389Z",
-          "img": "/img/uploads/png_20220607_201427_0000.png",
-          "mobile_img": "/img/uploads/png_20220607_234201_0000.png"
-        },
-        {
-          "start": "2022-01-22T02:19:26.622Z",
-          "end": "2022-01-22T02:19:26.754Z",
-          "img": "/img/uploads/png_20220607_201427_0000.png",
-          "mobile_img": "/img/uploads/png_20220607_234201_0000.png"
-        },
-        {
-          "start": "2022-06-08T09:55:23.045Z",
-          "end": "2022-06-08T09:55:23.113Z",
           "img": "/img/uploads/png_20220607_201427_0000.png",
           "mobile_img": "/img/uploads/png_20220607_234201_0000.png"
         }
