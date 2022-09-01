@@ -24,7 +24,17 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/conjuntos?Conjuntos PlusSize",
+      "/macaquinhos-plussize?Macaquinhos PlusSize",
+      "/vestidos?Vestidos PlusSize",
+      "/croppeds-plussize?Croppeds PlusSize",
+      "/shorts-saia-plussize?Shorts Saia PlusSize",
+      "/blusas-plussize?Blusas PlusSize",
+      "/bodys-plussize-suplex?Bodys PlusSize Suplex",
+      "/max-blaisers?Max Blaisers",
+      "/moda-praia-plussize?Moda Praia PlusSize"
+    ],
     "random": 15,
     "full_width": true
   },
