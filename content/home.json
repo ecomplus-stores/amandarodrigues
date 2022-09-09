@@ -5,13 +5,18 @@
     {
       "type": "banner-slider",
       "autoplay": 7000,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "start": "2022-09-01T18:33:12.847Z",
           "end": "",
           "img": "/img/uploads/mais-detalhes-no-www.sitebacaa.com.br.png",
           "mobile_img": "/img/uploads/meu-projeto.png"
+        },
+        {
+          "start": "2022-09-09T12:48:14.127Z",
+          "end": "2022-09-09T12:48:14.146Z",
+          "img": "/img/uploads/banner-2-.png"
         }
       ]
     },
