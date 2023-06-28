@@ -33,7 +33,8 @@
       "shuffle": false,
       "limit": 12,
       "page": 1,
-      "sort": "offers"
+      "sort": "offers",
+      "title": "Promoção"
     },
     {
       "type": "banners-grid",
