@@ -6,12 +6,22 @@
   "links_1": {
     "list_pages": true,
     "title": "Páginas",
-    "list": []
+    "list": [
+      {
+        "url": "https://instagram.com/boutiquedasplussizes?igshid=MzNlNGNkZWQ4Mg==",
+        "text": "Sigam Muito Nosso Instagram e Fiquem Por Dentro De Tudo!"
+      }
+    ]
   },
   "links_2": {
     "list_categories": true,
-    "title": "Categorias",
-    "list": []
+    "title": "Boutique Rede Sociais",
+    "list": [
+      {
+        "text": "WhatsApp Loja Para Dúvidas !",
+        "url": "https://wa.me/message/TZS3TPCDTJAQA1"
+      }
+    ]
   },
   "contacts": {
     "title": "Contatos",
@@ -29,7 +39,7 @@
   "payment_methods": {
     "bb": true,
     "visa": true,
-    "boleto": true,
+    "boleto": false,
     "aura": false,
     "banrisul": false,
     "elo": true,
@@ -38,6 +48,7 @@
     "bradesco": true,
     "santander": true,
     "mastercard": true,
+    "paypal": true,
     "citibank": false,
     "hiper": true,
     "diners": true,
