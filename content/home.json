@@ -1,6 +1,6 @@
 {
   "meta_title": "",
-  "meta_description": "",
+  "meta_description": " ",
   "sections": [
     {
       "type": "banner-slider",
@@ -56,6 +56,11 @@
       "page": 1,
       "sort": "offers",
       "title": "Promoção"
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "news"
     },
     {
       "type": "info-bar",
