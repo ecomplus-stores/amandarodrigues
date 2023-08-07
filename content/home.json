@@ -26,7 +26,8 @@
       "limit": 12,
       "page": 1,
       "sort": "news",
-      "title": "♡ New Colection Coleção Nova ♡"
+      "title": "♡ New Colection Coleção Nova ♡",
+      "headless": true
     },
     {
       "type": "responsive-banner",
