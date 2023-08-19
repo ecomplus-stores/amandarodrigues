@@ -36,18 +36,7 @@
     },
     {
       "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/design-sem-nome-2-1-.png"
-        },
-        {
-          "img": "/img/uploads/design-sem-nome-4-1-.png"
-        },
-        {
-          "img": "/img/uploads/design-sem-nome-3-1-.png",
-          "link": ""
-        }
-      ]
+      "banners": []
     },
     {
       "type": "collection-shelf",
