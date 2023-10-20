@@ -1,23 +1,15 @@
 {
   "marketing_stripe": {
-    "text": "Trabalhamos Com Looks Plussizes Exclusivos No Varejo Do 44 ao 54, Que Vestem Super Bem Valorizando Suas Curvas!",
-    "link": "https://www.instagram.com/boutiquedasplussizes/",
+    "text": "Looks Plus Size Exclusivos do 44 ao 54, confira!",
+    "link": "",
     "background": "#780957",
     "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre Nós!",
-        "link": "Somos Uma Loja Especializada Em Looks PlusSizes Exclusivos No Varejo Que Vestem Do 44ao54! Estamos Localizados Em São Paulo Zona Leste São Miguel Paulista, Nossa Loja Física Fica Na Avenida Manoel Dos Santos Braga,1316 Bairro Limoeiro🛍, Enviamos Para Todo Brasil Pelos Correios 📪, Entregamos Nas Estações Do Metro 🚇 E Entregamos Via Motoboy 🛵"
-      },
-      {
-        "title": "Sigam Nossa Loja No Instagram e Fiquem Por Dentro Das Novidades e Coleções!",
+        "title": "Siga nosso Instagram e receba as novidades em primeira mão!",
         "link": "https://www.instagram.com/boutiquedasplussizes/"
-      },
-      {
-        "title": "Sobre Trocas!",
-        "link": "O prazo de troca é de 7 dias corridos a partir do dia que o cliente recebeu o pedido! Para mais informações nos chamem no whats 11 98117-4137, Que Te Auxiliamos Melhor e Tiramos Todas as Dúvidas!"
       }
     ],
     "phone_wpp": true,
