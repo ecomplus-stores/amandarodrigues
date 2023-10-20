@@ -47,23 +47,8 @@
       "title": "Promoção"
     },
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "news"
-    },
-    {
       "type": "info-bar",
       "enabled": true
-    },
-    {
-      "type": "page-title",
-      "title": "Boutique Das PlusSizes",
-      "description": "Trabalhamos Com Looks PlusSize No Varejo Do 44 ao 54!"
-    },
-    {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false
     }
   ]
 }
