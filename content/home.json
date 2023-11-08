@@ -52,13 +52,16 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/story-do-instagram-anuncio-de-loja-simples-rosa-1-.png"
+          "img": "/img/uploads/grid-boutique.png",
+          "link": "/moda-praia-plussize"
         },
         {
-          "img": "/img/uploads/story-do-instagram-anuncio-de-loja-simples-rosa-1-.png"
+          "img": "/img/uploads/grid-boutique-1-.png",
+          "link": "/conjuntos"
         },
         {
-          "img": "/img/uploads/story-do-instagram-anuncio-de-loja-simples-rosa-1-.png"
+          "img": "/img/uploads/grid-boutique-2-.png",
+          "link": "/vestidos"
         }
       ]
     },
