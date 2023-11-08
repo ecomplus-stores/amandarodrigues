@@ -52,10 +52,13 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/grid-2-.png"
+          "img": "/img/uploads/grid-3-.png"
         },
         {
-          "img": "/img/uploads/grid-2-.png"
+          "img": "/img/uploads/grid-3-.png"
+        },
+        {
+          "img": "/img/uploads/grid-3-.png"
         }
       ]
     },
