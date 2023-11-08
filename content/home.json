@@ -49,6 +49,17 @@
       "title": "Promoção"
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/grid-2-.png"
+        },
+        {
+          "img": "/img/uploads/grid-2-.png"
+        }
+      ]
+    },
+    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
