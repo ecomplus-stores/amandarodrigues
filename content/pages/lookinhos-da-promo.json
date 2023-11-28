@@ -1,0 +1,11 @@
+{
+  "title": "Lookinhos Da Promo!",
+  "body": ">",
+  "sections": [
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "offers"
+    }
+  ]
+}
