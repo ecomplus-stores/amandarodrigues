@@ -1,10 +1,10 @@
 {
   "meta_title": "",
-  "meta_description": "  ",
+  "meta_description": "   ",
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 7000,
+      "autoplay": 6000,
       "full_width": true,
       "slides": [
         {
