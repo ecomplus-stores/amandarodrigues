@@ -1202,19 +1202,25 @@
     </url>
   
     <url>
+      <loc>https://boutiquedasplussizes.com.br/conjuntos-inverno</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://boutiquedasplussizes.com.br/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://boutiquedasplussizes.com.br/pages/entrega</loc>
+      <loc>https://boutiquedasplussizes.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://boutiquedasplussizes.com.br/pages/faq</loc>
+      <loc>https://boutiquedasplussizes.com.br/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
