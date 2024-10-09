@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.0a606e81f35fd03f3d9810a2929181cd.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.d3aebb2c3213ca6680c4c0f461c3a39d.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.582777dd1c75f9d03f5253b0f71950e4.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.16644f904d00e417410f3f6d8f0c8b1d.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.b11fbcfe4fca9f2cb404a74beeb9db9d.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Boutique Das PlusSizes",
+  "short_name": "boutiquedasplussizes",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Sejam Bem Vindas 💖\nAqui Na Boutique Vocês Encontram O Lookinho Perfeito Para Suas Curvas👗\nModelos PlusSizes Exclusivo Do 44 ao 54🪡\nEnviamos De SP Para Sua Casa 🏠📦\nVisitem Nossa Loja Física Na: Avenida Manoel dos Santos braga, 1316!🛍\nDuvidas Chamar No Whats👇🏼\n📲1198117-4137 ",
+  "background_color": "#993990",
+  "theme_color": "#a51d7d"
+}
