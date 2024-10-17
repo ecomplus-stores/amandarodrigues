@@ -52,15 +52,15 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/1.png",
+          "img": "/img/uploads/1gridba.png",
           "link": "/macaquinhos-plussize"
         },
         {
-          "img": "/img/uploads/2.png",
+          "img": "/img/uploads/2gridba.png",
           "link": "/conjuntos"
         },
         {
-          "img": "/img/uploads/3.png",
+          "img": "/img/uploads/3gridba.png",
           "link": "/vestidos"
         }
       ]
