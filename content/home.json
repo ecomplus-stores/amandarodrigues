@@ -9,6 +9,13 @@
       "slides": [
         {
           "start": "",
+          "end": "2024-12-01T03:00:00.000Z",
+          "img": "/img/uploads/banner-desktop-black.png",
+          "link": "/pages/lookinhos-da-promo",
+          "mobile_img": "/img/uploads/banner-black-mobile-1-.png"
+        },
+        {
+          "start": "",
           "end": "",
           "img": "/img/uploads/222.png",
           "mobile_img": "/img/uploads/2mo.png"
