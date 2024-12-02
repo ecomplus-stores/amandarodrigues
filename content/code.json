@@ -1,5 +1,5 @@
 {
   "css": ".header__nav a {\n  font-size: 12px;\n  padding: 0 4.5px;\n}\n.header__nav > div:last-child a {\n  padding-right: 0;\n}\n.header__nav > div:first-child a {\n  padding-left: 0;\n}\n.banners-grid.my-3.my-md-4.my-lg-5 div.col-12.col-lg-6.mb-3.mb-lg-0 {\n    max-width: 50%;\n    flex: 0 0 50%;\n    padding-right: 10px;\t \n    padding-left: 10px;\t\n  }\n.prices__value {\n  color: #0f833c\n}\n",
-  "html_head": "",
+  "html_head": "<meta name=\"facebook-domain-verification\" content=\"otyfvfvk2qodo8mm1r04et0vsqa7n5\" />",
   "html_body": "<a href=\"https://wa.me/5511981174137?text=Olá,%20Estou%20No%20Site%20E%20Gostaria%20De%20Tirar%20Uma%20Dúvida\" style=\"position:fixed;width:60px;height:60px;bottom:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;z-index:1000;right:40px;\" target=\"_blank\"> <i style=\"margin-top:16px\" class=\"fab fa-whatsapp\"></i> </a>"
 }
