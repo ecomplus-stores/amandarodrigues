@@ -1118,6 +1118,12 @@
     </url>
   
     <url>
+      <loc>https://boutiquedasplussizes.com.br/pages/entrega</loc>
+      <changefreq>monthly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>https://boutiquedasplussizes.com.br/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
@@ -1130,19 +1136,13 @@
     </url>
   
     <url>
-      <loc>https://boutiquedasplussizes.com.br/pages/entrega</loc>
+      <loc>https://boutiquedasplussizes.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
       <loc>https://boutiquedasplussizes.com.br/pages/lookinhos-da-promo</loc>
-      <changefreq>monthly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>https://boutiquedasplussizes.com.br/pages/privacidade</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
@@ -1172,15 +1172,15 @@
     </url>
   
     <url>
-      <loc>https://boutiquedasplussizes.com.br/blog</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://boutiquedasplussizes.com.br/</loc>
       <changefreq>daily</changefreq>
       <priority>1</priority>
+    </url>
+  
+    <url>
+      <loc>https://boutiquedasplussizes.com.br/blog</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
